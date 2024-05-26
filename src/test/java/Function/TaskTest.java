@@ -1,4 +1,3 @@
-
 package Function;
 
 import org.junit.jupiter.api.BeforeEach;
