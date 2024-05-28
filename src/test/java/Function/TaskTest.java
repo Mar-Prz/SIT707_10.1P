@@ -356,3 +356,4 @@ public class TaskTest {
         assertEquals(expected, chatMessage.toString());
     }
 }
+
